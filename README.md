@@ -1,6 +1,7 @@
 ## Reprograma Git e GitHub
 
 ### Git
+
 O **Git** é um sistema de controle de versão que, pela sua estrutura interna, é
 umamáquina do tempo extremamente rápida e é um robô de integração bem
 competente.
@@ -12,3 +13,9 @@ outros projetos de código aberto. O Git também é bastante utilizado em
 empresas em todo o mundo, inclusive no Brasil.
 Atualmente, conhecer bem como utilizar o Git é uma habilidade importante
 para uma carreira bem-sucedida no desenvolvimento de software.
+
+### GitHub
+
+**GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
